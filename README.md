@@ -1,21 +1,31 @@
-<h2>Hey!, I'm Neha Wasnik! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<br/>
+<h2 align = "center">Hey!, I'm Neha Wasnik! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+
 
 **I'm into,**
 <br/>
 **Web Development**
 
-<br/>
-<a href="https://github.com/neehhaa">
-  <img src="https://github-readme-stats.vercel.app/api?username=neehhaa&show_icons=true" alt="neehhaa's GitHub Stats" />
-</a>
-<br />
 
-*************
+<h2 align = "center">Stats</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div>
+    <a href="https://github-readme-stats.vercel.app">
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=neehhaa&theme=shades-of-purple&custom_title=GitHub+Stats&hide_border=true"/>
+    </a>
+    <a href="https://github-readme-streak-stats.herokuapp.com">
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=neehhaa&theme=shades-of-purple&hide_border=true"/>
+    </a>
+  </div>
+  </br>
 
-<br />
 
-### Languages and Tools...
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+  
+ </br>
+
+
+<h2 align = "center">Languages and Tools...</h2>
 
 <p align="center">
 
