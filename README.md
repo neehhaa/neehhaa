@@ -49,9 +49,7 @@
   <a href="https://www.oracle.com/java/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/usepanda/usepanda-ar21.svg"></a>
 </code>
   
-<code>
-  <a href="https://www.oracle.com/java/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></a>
-</code>
+
   
 </p>
 
@@ -71,9 +69,7 @@
  <a href="https://www.oracle.com/java/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a>
 </code>
   
- <code>
-   <a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></a>
- </code>
+
   
 <code>
   <a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></a>
