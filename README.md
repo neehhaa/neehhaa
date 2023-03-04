@@ -3,11 +3,15 @@
 <h2 align = "center">Stats</h2>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div align = "center">
+
+
+<div>
  
-![Neehhaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=neehhaa&count_private=true&show_icons=true&theme=tokyonight)                             ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neehhaa&theme=tokyonight&hide_border=true)
+<img width = "49%" src="https://github-readme-stats.vercel.app/api?username=neehhaa&count_private=true&show_icons=true&theme=tokyonight"/>
+
+<img width = "50%" src="https://github-readme-streak-stats.herokuapp.com?user=neehhaa&theme=tokyonight&hide_border=true"/>
  
- </div>
+</div>
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
