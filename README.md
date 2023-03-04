@@ -1,12 +1,13 @@
 <h2 align = "center">Hey!, I'm Neha Wasnik! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <h2 align = "center">Stats</h2>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<div align = "center">
+ 
 ![Neehhaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=neehhaa&count_private=true&show_icons=true&theme=tokyonight)                             ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neehhaa&theme=tokyonight&hide_border=true)
+ 
+ </div>
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
